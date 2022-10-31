@@ -32,6 +32,9 @@
         android:inputType="text"
         android:layout_below="@id/et_nomor"
         />
+    <Spinner
+        android:layout_width="@"
+        android:layout_height=""
 
 
 </RelativeLayout>
