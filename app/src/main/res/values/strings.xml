@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">UTS_Wiji2024240060</string>
+    <string-array name="arr_jenispendaftaran">
+        <item>Jalur Pendaftaran</item>
+        <item>Jalur Tanpa Tes</item>
+        <item>Tes Wawancara</item>
+        <item>Rekomendasi</item>
+    </string-array>
 </resources>
